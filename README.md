@@ -10,4 +10,4 @@ finding convex hull by using divide and conquer algorithm for my algorithm strat
 ## HOW TO USE
 - clone src
 - run main1.ipynb
-- default data is desired, change the data if desired
+- default data is provided, change the data if desired
