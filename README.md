@@ -4,7 +4,7 @@ finding convex hull by using divide and conquer algorithm for my algorithm strat
 ## Author
 - Kevin Roni 13520114
 
-## requirements
+## Requirements
 - python, numpy, cmath, sklearn, numpy, pandas, matplotlib
 
 ## HOW TO USE
